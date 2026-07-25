@@ -1,7 +1,12 @@
 import streamlit as st
 
 from config.app_config import APP_NAME, APP_TAGLINE
-from components.layout import apply_theme, render_footer, render_privacy_banner
+from components.layout import (
+    apply_theme,
+    render_footer,
+    render_privacy_banner,
+    render_sidebar_brand,
+)
 from services.session_manager import initialise_session
 
 st.set_page_config(
@@ -9,6 +14,11 @@ st.set_page_config(
     page_icon="🩺",
     layout="wide",
     initial_sidebar_state="expanded",
+    menu_items={
+        "Get Help": "https://github.com/dr-alok-tiwari/careprompt_studio_for_healthcare_professionals",
+        "Report a bug": "https://github.com/dr-alok-tiwari/careprompt_studio_for_healthcare_professionals/issues",
+        "About": "CarePrompt Studio is a responsible, no-API-first healthcare prompt and AI-tool learning environment.",
+    },
 )
 apply_theme()
 initialise_session()
@@ -42,16 +52,23 @@ pages = {
 }
 
 with st.sidebar:
-    st.markdown(f"## 🩺 {APP_NAME}")
-    st.caption(APP_TAGLINE)
-    st.divider()
+    render_sidebar_brand()
     mode = st.radio(
-        "Experience",
+        "Experience mode",
         options=["Beginner", "Advanced"],
         horizontal=True,
         key="experience_mode",
+        help="Beginner mode keeps explanations visible. Advanced mode is intended for experienced users.",
     )
-    st.caption("No patient-identifiable data. Human review is required for high-risk outputs.")
+    if st.session_state.get("user_role"):
+        st.caption(f"Personalised for: {st.session_state['user_role']}")
+    with st.expander("Safe-use essentials"):
+        st.markdown(
+            "- Use fictional or de-identified information\n"
+            "- Verify critical facts and citations\n"
+            "- Keep a qualified professional in control\n"
+            "- Follow institutional policy"
+        )
 
 render_privacy_banner()
 nav = st.navigation(pages, position="sidebar", expanded=True)
