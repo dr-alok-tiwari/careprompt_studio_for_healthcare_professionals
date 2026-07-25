@@ -34,6 +34,7 @@ class FakeStreamlit(types.ModuleType):
         super().__init__("streamlit")
         self.session_state = Session(experience_mode="Beginner", saved_prompts=[])
         self.sidebar = Dummy()
+        self.column_config = Dummy()
 
     def columns(self, spec, *args, **kwargs):
         count = spec if isinstance(spec, int) else len(spec)
