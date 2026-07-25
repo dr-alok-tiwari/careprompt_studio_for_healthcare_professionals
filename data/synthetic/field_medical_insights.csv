@@ -1,0 +1,91 @@
+insight_id,therapy_area,stakeholder_type,theme,evidence_gap,priority,fictional_data
+FI001,Rare disease,Investigator,Safety,No,High,True
+FI002,Rare disease,Investigator,Efficacy,Yes,Low,True
+FI003,Rare disease,KOL,Safety,Yes,Medium,True
+FI004,Cardiology,Investigator,Access,Yes,Medium,True
+FI005,Oncology,Investigator,Access,Yes,Low,True
+FI006,Cardiology,Payer,Access,Yes,Medium,True
+FI007,Rare disease,Investigator,Safety,No,Medium,True
+FI008,Rare disease,Payer,Safety,No,High,True
+FI009,Oncology,Payer,Efficacy,No,Low,True
+FI010,Rare disease,Investigator,Safety,Yes,High,True
+FI011,Rare disease,KOL,Safety,Yes,Low,True
+FI012,Oncology,Payer,Access,No,Low,True
+FI013,Oncology,KOL,Adherence,Yes,Medium,True
+FI014,Oncology,Payer,Access,No,Low,True
+FI015,Rare disease,Payer,Safety,Yes,Low,True
+FI016,Oncology,Investigator,Safety,No,Low,True
+FI017,Cardiology,Payer,Access,No,Low,True
+FI018,Rare disease,Payer,Safety,No,Low,True
+FI019,Cardiology,Investigator,Access,Yes,Medium,True
+FI020,Cardiology,Investigator,Adherence,Yes,High,True
+FI021,Rare disease,KOL,Efficacy,Yes,Medium,True
+FI022,Oncology,KOL,Access,Yes,Medium,True
+FI023,Oncology,Investigator,Adherence,No,Low,True
+FI024,Oncology,Investigator,Efficacy,No,Medium,True
+FI025,Oncology,KOL,Access,Yes,Low,True
+FI026,Oncology,Investigator,Adherence,No,Medium,True
+FI027,Rare disease,KOL,Safety,Yes,High,True
+FI028,Cardiology,KOL,Safety,No,High,True
+FI029,Oncology,KOL,Access,No,Medium,True
+FI030,Cardiology,Investigator,Access,No,Medium,True
+FI031,Cardiology,KOL,Safety,Yes,Low,True
+FI032,Rare disease,KOL,Efficacy,Yes,Low,True
+FI033,Cardiology,Payer,Access,No,Low,True
+FI034,Rare disease,Payer,Efficacy,No,Medium,True
+FI035,Cardiology,Payer,Safety,Yes,Low,True
+FI036,Rare disease,Payer,Safety,Yes,Medium,True
+FI037,Oncology,KOL,Efficacy,No,Medium,True
+FI038,Rare disease,KOL,Access,No,Low,True
+FI039,Oncology,Payer,Adherence,Yes,Low,True
+FI040,Cardiology,KOL,Efficacy,Yes,Low,True
+FI041,Oncology,KOL,Efficacy,Yes,Medium,True
+FI042,Cardiology,Investigator,Safety,No,Low,True
+FI043,Oncology,KOL,Efficacy,No,Low,True
+FI044,Oncology,Payer,Safety,Yes,Medium,True
+FI045,Oncology,KOL,Adherence,No,Medium,True
+FI046,Oncology,Payer,Adherence,Yes,Medium,True
+FI047,Oncology,KOL,Access,No,Medium,True
+FI048,Oncology,KOL,Efficacy,No,Medium,True
+FI049,Cardiology,Investigator,Adherence,Yes,Low,True
+FI050,Cardiology,Payer,Efficacy,No,Low,True
+FI051,Rare disease,Investigator,Efficacy,Yes,Medium,True
+FI052,Rare disease,Payer,Adherence,No,Medium,True
+FI053,Rare disease,Investigator,Access,No,Medium,True
+FI054,Oncology,KOL,Access,Yes,Low,True
+FI055,Cardiology,KOL,Adherence,No,High,True
+FI056,Oncology,KOL,Safety,Yes,High,True
+FI057,Oncology,Payer,Safety,Yes,High,True
+FI058,Cardiology,Payer,Efficacy,Yes,Low,True
+FI059,Rare disease,Payer,Access,Yes,High,True
+FI060,Rare disease,Payer,Efficacy,Yes,Medium,True
+FI061,Rare disease,Payer,Efficacy,No,Low,True
+FI062,Oncology,KOL,Efficacy,Yes,Low,True
+FI063,Rare disease,Payer,Safety,No,High,True
+FI064,Oncology,KOL,Access,Yes,Medium,True
+FI065,Oncology,KOL,Efficacy,Yes,Low,True
+FI066,Rare disease,Payer,Safety,No,High,True
+FI067,Rare disease,Payer,Safety,No,Medium,True
+FI068,Cardiology,KOL,Efficacy,No,High,True
+FI069,Cardiology,Investigator,Access,Yes,High,True
+FI070,Rare disease,Investigator,Access,Yes,High,True
+FI071,Rare disease,KOL,Adherence,No,High,True
+FI072,Rare disease,Payer,Efficacy,Yes,High,True
+FI073,Oncology,Investigator,Adherence,Yes,Low,True
+FI074,Rare disease,Payer,Efficacy,Yes,Medium,True
+FI075,Oncology,Payer,Safety,Yes,Medium,True
+FI076,Cardiology,KOL,Safety,No,Medium,True
+FI077,Oncology,Payer,Efficacy,Yes,High,True
+FI078,Oncology,Payer,Access,Yes,High,True
+FI079,Oncology,KOL,Adherence,No,High,True
+FI080,Cardiology,KOL,Adherence,No,Medium,True
+FI081,Cardiology,Investigator,Adherence,Yes,Medium,True
+FI082,Rare disease,Investigator,Efficacy,Yes,Medium,True
+FI083,Oncology,KOL,Access,Yes,Medium,True
+FI084,Cardiology,KOL,Safety,No,Low,True
+FI085,Cardiology,KOL,Safety,Yes,Medium,True
+FI086,Rare disease,Investigator,Adherence,Yes,Medium,True
+FI087,Rare disease,KOL,Adherence,Yes,Low,True
+FI088,Oncology,Payer,Efficacy,Yes,Medium,True
+FI089,Rare disease,Investigator,Access,No,Medium,True
+FI090,Oncology,KOL,Safety,No,High,True

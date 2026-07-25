@@ -1,0 +1,10 @@
+APP_NAME = "CarePrompt Studio"
+APP_TAGLINE = "Patient-centred AI workflows for healthcare professionals"
+APP_VERSION = "1.0.0"
+DEVELOPER_NAME = "Dr. Alok Tiwari"
+DEVELOPER_ROLE = "Assistant Professor – Big Data Analytics"
+DEVELOPER_ORG = "Goa Institute of Management"
+PORTFOLIO_URL = "https://dr-alok-tiwari.github.io/"
+GITHUB_URL = "https://github.com/dr-alok-tiwari"
+COPYRIGHT = "© 2026 Dr. Alok Tiwari. Educational use with responsible human oversight."
+RISK_LEVELS = ["Low", "Moderate", "High", "Not suitable for unsupervised AI use"]

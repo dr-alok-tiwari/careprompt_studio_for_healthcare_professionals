@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Which is the safest first step before entering a case into a public AI tool?",
+    "options": [
+      "Add the patient name for clarity",
+      "De-identify and check organisational approval",
+      "Ask AI to keep it secret",
+      "Upload the full record"
+    ],
+    "answer": "De-identify and check organisational approval",
+    "explanation": "Privacy requires both data minimisation and tool approval."
+  },
+  {
+    "question": "What does a confident AI answer prove?",
+    "options": [
+      "Clinical correctness",
+      "Regulatory acceptability",
+      "Nothing by itself",
+      "Peer review"
+    ],
+    "answer": "Nothing by itself",
+    "explanation": "Fluency is not evidence."
+  },
+  {
+    "question": "How should AI-generated citations be handled?",
+    "options": [
+      "Trust the formatting",
+      "Verify the original source and claim",
+      "Use only the first citation",
+      "Remove all citations"
+    ],
+    "answer": "Verify the original source and claim",
+    "explanation": "References can be fabricated or misapplied."
+  },
+  {
+    "question": "Who remains accountable for a patient-facing output?",
+    "options": [
+      "The AI provider",
+      "The prompt template",
+      "The qualified professional using it",
+      "No one"
+    ],
+    "answer": "The qualified professional using it",
+    "explanation": "Human accountability cannot be delegated to a model."
+  },
+  {
+    "question": "What is appropriate for clinical reasoning support?",
+    "options": [
+      "Final diagnosis",
+      "Educational differential with uncertainty and review",
+      "Automatic prescribing",
+      "Emergency triage without oversight"
+    ],
+    "answer": "Educational differential with uncertainty and review",
+    "explanation": "Reasoning support must not become autonomous diagnosis or treatment."
+  },
+  {
+    "question": "What should a medical-affairs draft separate?",
+    "options": [
+      "Only headings",
+      "Evidence, interpretation, assumptions and claims",
+      "Free and paid tools",
+      "Colours and fonts"
+    ],
+    "answer": "Evidence, interpretation, assumptions and claims",
+    "explanation": "This supports scientific and MLR review."
+  },
+  {
+    "question": "What is the purpose of a human-review checklist?",
+    "options": [
+      "Make output longer",
+      "Transfer accountability to AI",
+      "Make critical verification explicit",
+      "Guarantee correctness"
+    ],
+    "answer": "Make critical verification explicit",
+    "explanation": "A checklist reduces omissions but does not guarantee correctness."
+  },
+  {
+    "question": "Can de-identification guarantee zero privacy risk?",
+    "options": [
+      "Yes",
+      "No",
+      "Only for images",
+      "Only for research"
+    ],
+    "answer": "No",
+    "explanation": "Re-identification and policy risks can remain."
+  },
+  {
+    "question": "What is a strong prompt instruction for research writing?",
+    "options": [
+      "Invent recent citations",
+      "Fill missing data",
+      "Do not fabricate data or references",
+      "Hide limitations"
+    ],
+    "answer": "Do not fabricate data or references",
+    "explanation": "Research integrity requires transparent evidence boundaries."
+  },
+  {
+    "question": "When is a specialised tool preferable to ChatGPT alone?",
+    "options": [
+      "Never",
+      "When validated sources, regulated workflows or domain-specific functions are required",
+      "Only when it is expensive",
+      "Whenever it has AI in the name"
+    ],
+    "answer": "When validated sources, regulated workflows or domain-specific functions are required",
+    "explanation": "Tool choice should match risk, evidence and workflow requirements."
+  }
+]

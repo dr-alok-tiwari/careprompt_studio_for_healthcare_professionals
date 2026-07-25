@@ -1,0 +1,10 @@
+app:
+  name: CarePrompt Studio
+  version: 1.0.0
+  default_mode: Beginner
+privacy:
+  retain_sensitive_text: false
+  allow_api_by_default: false
+branding:
+  primary_colour: "#0b6b66"
+  accent_colour: "#d97706"

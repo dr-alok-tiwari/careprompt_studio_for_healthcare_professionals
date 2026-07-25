@@ -1,0 +1,158 @@
+[
+  {
+    "id": "CASE-13",
+    "profession": "Researcher",
+    "level": "Beginner",
+    "title": "Research question refinement",
+    "scenario": "You are a researcher handling a fictional scenario involving research question refinement. The initial information is incomplete and the output may be used by others.",
+    "available_information": [
+      "The purpose and intended audience are known",
+      "Only de-identified summary information is available",
+      "The user wants a concise, actionable output"
+    ],
+    "missing_information": [
+      "Relevant context and exclusions",
+      "Required evidence standard",
+      "Who will review the output",
+      "Local policy or guideline applicability"
+    ],
+    "safety_concern": "A fluent answer could be accepted without verification or could overstep professional boundaries.",
+    "model_prompt": "Act as an experienced researcher educator. Help structure the fictional task: Research question refinement. First list missing information. Do not invent facts, references, diagnoses, doses or outcomes. Separate evidence, assumptions and uncertainty. Produce a review-ready draft and end with a qualified human-review checklist.",
+    "reflection_questions": [
+      "What would make this output unsafe?",
+      "Which source should be verified first?",
+      "Who has final accountability?"
+    ],
+    "facilitator_notes": "Ask participants to improve the prompt by adding audience, format, evidence and safeguards."
+  },
+  {
+    "id": "CASE-14",
+    "profession": "Researcher",
+    "level": "Intermediate",
+    "title": "Search strategy",
+    "scenario": "You are a researcher handling a fictional scenario involving search strategy. The initial information is incomplete and the output may be used by others.",
+    "available_information": [
+      "The purpose and intended audience are known",
+      "Only de-identified summary information is available",
+      "The user wants a concise, actionable output"
+    ],
+    "missing_information": [
+      "Relevant context and exclusions",
+      "Required evidence standard",
+      "Who will review the output",
+      "Local policy or guideline applicability"
+    ],
+    "safety_concern": "A fluent answer could be accepted without verification or could overstep professional boundaries.",
+    "model_prompt": "Act as an experienced researcher educator. Help structure the fictional task: Search strategy. First list missing information. Do not invent facts, references, diagnoses, doses or outcomes. Separate evidence, assumptions and uncertainty. Produce a review-ready draft and end with a qualified human-review checklist.",
+    "reflection_questions": [
+      "What would make this output unsafe?",
+      "Which source should be verified first?",
+      "Who has final accountability?"
+    ],
+    "facilitator_notes": "Ask participants to improve the prompt by adding audience, format, evidence and safeguards."
+  },
+  {
+    "id": "CASE-15",
+    "profession": "Researcher",
+    "level": "Advanced",
+    "title": "Manuscript critique",
+    "scenario": "You are a researcher handling a fictional scenario involving manuscript critique. The initial information is incomplete and the output may be used by others.",
+    "available_information": [
+      "The purpose and intended audience are known",
+      "Only de-identified summary information is available",
+      "The user wants a concise, actionable output"
+    ],
+    "missing_information": [
+      "Relevant context and exclusions",
+      "Required evidence standard",
+      "Who will review the output",
+      "Local policy or guideline applicability"
+    ],
+    "safety_concern": "A fluent answer could be accepted without verification or could overstep professional boundaries.",
+    "model_prompt": "Act as an experienced researcher educator. Help structure the fictional task: Manuscript critique. First list missing information. Do not invent facts, references, diagnoses, doses or outcomes. Separate evidence, assumptions and uncertainty. Produce a review-ready draft and end with a qualified human-review checklist.",
+    "reflection_questions": [
+      "What would make this output unsafe?",
+      "Which source should be verified first?",
+      "Who has final accountability?"
+    ],
+    "facilitator_notes": "Ask participants to improve the prompt by adding audience, format, evidence and safeguards."
+  },
+  {
+    "id": "CASE-16",
+    "profession": "Researcher",
+    "level": "Beginner",
+    "title": "Statistical analysis plan",
+    "scenario": "You are a researcher handling a fictional scenario involving statistical analysis plan. The initial information is incomplete and the output may be used by others.",
+    "available_information": [
+      "The purpose and intended audience are known",
+      "Only de-identified summary information is available",
+      "The user wants a concise, actionable output"
+    ],
+    "missing_information": [
+      "Relevant context and exclusions",
+      "Required evidence standard",
+      "Who will review the output",
+      "Local policy or guideline applicability"
+    ],
+    "safety_concern": "A fluent answer could be accepted without verification or could overstep professional boundaries.",
+    "model_prompt": "Act as an experienced researcher educator. Help structure the fictional task: Statistical analysis plan. First list missing information. Do not invent facts, references, diagnoses, doses or outcomes. Separate evidence, assumptions and uncertainty. Produce a review-ready draft and end with a qualified human-review checklist.",
+    "reflection_questions": [
+      "What would make this output unsafe?",
+      "Which source should be verified first?",
+      "Who has final accountability?"
+    ],
+    "facilitator_notes": "Ask participants to improve the prompt by adding audience, format, evidence and safeguards."
+  },
+  {
+    "id": "CASE-17",
+    "profession": "Researcher",
+    "level": "Intermediate",
+    "title": "Reviewer response",
+    "scenario": "You are a researcher handling a fictional scenario involving reviewer response. The initial information is incomplete and the output may be used by others.",
+    "available_information": [
+      "The purpose and intended audience are known",
+      "Only de-identified summary information is available",
+      "The user wants a concise, actionable output"
+    ],
+    "missing_information": [
+      "Relevant context and exclusions",
+      "Required evidence standard",
+      "Who will review the output",
+      "Local policy or guideline applicability"
+    ],
+    "safety_concern": "A fluent answer could be accepted without verification or could overstep professional boundaries.",
+    "model_prompt": "Act as an experienced researcher educator. Help structure the fictional task: Reviewer response. First list missing information. Do not invent facts, references, diagnoses, doses or outcomes. Separate evidence, assumptions and uncertainty. Produce a review-ready draft and end with a qualified human-review checklist.",
+    "reflection_questions": [
+      "What would make this output unsafe?",
+      "Which source should be verified first?",
+      "Who has final accountability?"
+    ],
+    "facilitator_notes": "Ask participants to improve the prompt by adding audience, format, evidence and safeguards."
+  },
+  {
+    "id": "CASE-18",
+    "profession": "Researcher",
+    "level": "Advanced",
+    "title": "Citation verification",
+    "scenario": "You are a researcher handling a fictional scenario involving citation verification. The initial information is incomplete and the output may be used by others.",
+    "available_information": [
+      "The purpose and intended audience are known",
+      "Only de-identified summary information is available",
+      "The user wants a concise, actionable output"
+    ],
+    "missing_information": [
+      "Relevant context and exclusions",
+      "Required evidence standard",
+      "Who will review the output",
+      "Local policy or guideline applicability"
+    ],
+    "safety_concern": "A fluent answer could be accepted without verification or could overstep professional boundaries.",
+    "model_prompt": "Act as an experienced researcher educator. Help structure the fictional task: Citation verification. First list missing information. Do not invent facts, references, diagnoses, doses or outcomes. Separate evidence, assumptions and uncertainty. Produce a review-ready draft and end with a qualified human-review checklist.",
+    "reflection_questions": [
+      "What would make this output unsafe?",
+      "Which source should be verified first?",
+      "Who has final accountability?"
+    ],
+    "facilitator_notes": "Ask participants to improve the prompt by adding audience, format, evidence and safeguards."
+  }
+]

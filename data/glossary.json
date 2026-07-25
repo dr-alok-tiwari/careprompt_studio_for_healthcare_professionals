@@ -1,0 +1,6 @@
+{
+  "hallucination": "Plausible but unsupported or false model output.",
+  "automation bias": "Over-reliance on automated recommendations.",
+  "prompt injection": "Instructions embedded in content that attempt to redirect an AI workflow.",
+  "de-identification": "Removal or transformation of information that could identify a person."
+}

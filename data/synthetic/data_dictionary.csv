@@ -1,0 +1,74 @@
+dataset,variable,data_type,description,example,privacy_note
+adverse_event_log.csv,case_id,object,Synthetic safety case identifier,AE001,Synthetic teaching data; not real patient or company evidence
+adverse_event_log.csv,product_code,object,Product code,P01,Synthetic teaching data; not real patient or company evidence
+adverse_event_log.csv,serious,object,Serious,Yes,Synthetic teaching data; not real patient or company evidence
+adverse_event_log.csv,report_source,object,Report source,Consumer,Synthetic teaching data; not real patient or company evidence
+adverse_event_log.csv,days_to_onset,int64,Days to onset,5,Synthetic teaching data; not real patient or company evidence
+adverse_event_log.csv,outcome,object,Outcome,Recovering,Synthetic teaching data; not real patient or company evidence
+adverse_event_log.csv,completeness_pct,int64,Completeness pct,51,Synthetic teaching data; not real patient or company evidence
+adverse_event_log.csv,fictional_data,bool,Always True; confirms that the row is synthetic,True,Synthetic teaching data; not real patient or company evidence
+clinical_trial_summary.csv,trial_code,object,Synthetic trial code,TR001,Synthetic teaching data; not real patient or company evidence
+clinical_trial_summary.csv,phase,object,Phase,III,Synthetic teaching data; not real patient or company evidence
+clinical_trial_summary.csv,condition,object,Condition,Cancer,Synthetic teaching data; not real patient or company evidence
+clinical_trial_summary.csv,sample_size,int64,Sample size,277,Synthetic teaching data; not real patient or company evidence
+clinical_trial_summary.csv,primary_endpoint_met,object,Primary endpoint met,Yes,Synthetic teaching data; not real patient or company evidence
+clinical_trial_summary.csv,serious_ae_pct,float64,Serious ae pct,10.3,Synthetic teaching data; not real patient or company evidence
+clinical_trial_summary.csv,fictional_data,bool,Always True; confirms that the row is synthetic,True,Synthetic teaching data; not real patient or company evidence
+field_medical_insights.csv,insight_id,object,Insight id,FI001,Synthetic teaching data; not real patient or company evidence
+field_medical_insights.csv,therapy_area,object,Therapy area,Rare disease,Synthetic teaching data; not real patient or company evidence
+field_medical_insights.csv,stakeholder_type,object,Stakeholder type,Investigator,Synthetic teaching data; not real patient or company evidence
+field_medical_insights.csv,theme,object,Theme,Safety,Synthetic teaching data; not real patient or company evidence
+field_medical_insights.csv,evidence_gap,object,Evidence gap,No,Synthetic teaching data; not real patient or company evidence
+field_medical_insights.csv,priority,object,Priority,High,Synthetic teaching data; not real patient or company evidence
+field_medical_insights.csv,fictional_data,bool,Always True; confirms that the row is synthetic,True,Synthetic teaching data; not real patient or company evidence
+hcp_education.csv,learner_id,object,Learner id,ED001,Synthetic teaching data; not real patient or company evidence
+hcp_education.csv,role,object,Role,Medical affairs,Synthetic teaching data; not real patient or company evidence
+hcp_education.csv,pre_score,int64,Pre score,38,Synthetic teaching data; not real patient or company evidence
+hcp_education.csv,post_score,int64,Post score,76,Synthetic teaching data; not real patient or company evidence
+hcp_education.csv,confidence_pre,int64,Confidence pre,1,Synthetic teaching data; not real patient or company evidence
+hcp_education.csv,confidence_post,int64,Confidence post,4,Synthetic teaching data; not real patient or company evidence
+hcp_education.csv,fictional_data,bool,Always True; confirms that the row is synthetic,True,Synthetic teaching data; not real patient or company evidence
+hospital_followup.csv,patient_code,object,Synthetic patient code,HF001,Synthetic teaching data; not real patient or company evidence
+hospital_followup.csv,service,object,Service,Surgery,Synthetic teaching data; not real patient or company evidence
+hospital_followup.csv,followup_days,int64,Followup days,8,Synthetic teaching data; not real patient or company evidence
+hospital_followup.csv,contact_success,int64,Contact success,1,Synthetic teaching data; not real patient or company evidence
+hospital_followup.csv,readmission_30d,int64,Readmission 30d,0,Synthetic teaching data; not real patient or company evidence
+hospital_followup.csv,satisfaction,int64,Satisfaction,8,Synthetic teaching data; not real patient or company evidence
+hospital_followup.csv,fictional_data,bool,Always True; confirms that the row is synthetic,True,Synthetic teaching data; not real patient or company evidence
+medical_affairs_engagement.csv,engagement_id,object,Engagement id,ME001,Synthetic teaching data; not real patient or company evidence
+medical_affairs_engagement.csv,channel,object,Channel,Congress,Synthetic teaching data; not real patient or company evidence
+medical_affairs_engagement.csv,stakeholder,object,Stakeholder,KOL,Synthetic teaching data; not real patient or company evidence
+medical_affairs_engagement.csv,duration_min,int64,Duration min,29,Synthetic teaching data; not real patient or company evidence
+medical_affairs_engagement.csv,followup_required,int64,Followup required,0,Synthetic teaching data; not real patient or company evidence
+medical_affairs_engagement.csv,value_score,int64,Value score,3,Synthetic teaching data; not real patient or company evidence
+medical_affairs_engagement.csv,fictional_data,bool,Always True; confirms that the row is synthetic,True,Synthetic teaching data; not real patient or company evidence
+medication_adherence.csv,participant_id,object,Synthetic participant identifier,MA001,Synthetic teaching data; not real patient or company evidence
+medication_adherence.csv,therapy_area,object,Therapy area,Hypertension,Synthetic teaching data; not real patient or company evidence
+medication_adherence.csv,adherence_pct,int64,Adherence pct,80,Synthetic teaching data; not real patient or company evidence
+medication_adherence.csv,side_effect_concern,object,Side effect concern,No,Synthetic teaching data; not real patient or company evidence
+medication_adherence.csv,cost_barrier,object,Cost barrier,No,Synthetic teaching data; not real patient or company evidence
+medication_adherence.csv,followup_completed,object,Followup completed,No,Synthetic teaching data; not real patient or company evidence
+medication_adherence.csv,fictional_data,bool,Always True; confirms that the row is synthetic,True,Synthetic teaching data; not real patient or company evidence
+patient_experience_survey.csv,respondent_id,object,Synthetic respondent identifier,PX001,Synthetic teaching data; not real patient or company evidence
+patient_experience_survey.csv,age_group,object,Age group,60+,Synthetic teaching data; not real patient or company evidence
+patient_experience_survey.csv,department,object,Department,OPD,Synthetic teaching data; not real patient or company evidence
+patient_experience_survey.csv,wait_minutes,int64,Wait minutes,8,Synthetic teaching data; not real patient or company evidence
+patient_experience_survey.csv,clarity_score,int64,Clarity score,3,Synthetic teaching data; not real patient or company evidence
+patient_experience_survey.csv,empathy_score,int64,Empathy score,2,Synthetic teaching data; not real patient or company evidence
+patient_experience_survey.csv,overall_score,int64,Overall score,4,Synthetic teaching data; not real patient or company evidence
+patient_experience_survey.csv,fictional_data,bool,Always True; confirms that the row is synthetic,True,Synthetic teaching data; not real patient or company evidence
+patient_journey_touchpoints.csv,touchpoint_id,object,Touchpoint id,JT001,Synthetic teaching data; not real patient or company evidence
+patient_journey_touchpoints.csv,stage,object,Stage,Follow-up,Synthetic teaching data; not real patient or company evidence
+patient_journey_touchpoints.csv,channel,object,Channel,Hospital,Synthetic teaching data; not real patient or company evidence
+patient_journey_touchpoints.csv,pain_score,int64,Pain score,8,Synthetic teaching data; not real patient or company evidence
+patient_journey_touchpoints.csv,importance_score,int64,Importance score,10,Synthetic teaching data; not real patient or company evidence
+patient_journey_touchpoints.csv,owner,object,Owner,Patient support,Synthetic teaching data; not real patient or company evidence
+patient_journey_touchpoints.csv,fictional_data,bool,Always True; confirms that the row is synthetic,True,Synthetic teaching data; not real patient or company evidence
+research_screening.csv,record_id,object,Synthetic literature record identifier,RS001,Synthetic teaching data; not real patient or company evidence
+research_screening.csv,database,object,Database,Scopus,Synthetic teaching data; not real patient or company evidence
+research_screening.csv,year,int64,Year,2023,Synthetic teaching data; not real patient or company evidence
+research_screening.csv,title_relevant,int64,Title relevant,1,Synthetic teaching data; not real patient or company evidence
+research_screening.csv,abstract_relevant,int64,Abstract relevant,0,Synthetic teaching data; not real patient or company evidence
+research_screening.csv,full_text_available,int64,Full text available,1,Synthetic teaching data; not real patient or company evidence
+research_screening.csv,include,int64,Include,0,Synthetic teaching data; not real patient or company evidence
+research_screening.csv,fictional_data,bool,Always True; confirms that the row is synthetic,True,Synthetic teaching data; not real patient or company evidence

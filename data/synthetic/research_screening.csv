@@ -1,0 +1,151 @@
+record_id,database,year,title_relevant,abstract_relevant,full_text_available,include,fictional_data
+RS001,Scopus,2023,1,0,1,0,True
+RS002,Scopus,2021,0,1,0,0,True
+RS003,Scopus,2026,1,0,1,1,True
+RS004,Web of Science,2020,0,0,1,0,True
+RS005,Scopus,2021,0,0,0,1,True
+RS006,Scopus,2026,1,1,1,0,True
+RS007,Web of Science,2021,1,1,0,1,True
+RS008,Scopus,2019,1,1,1,1,True
+RS009,Scopus,2023,0,1,1,1,True
+RS010,Web of Science,2022,0,1,0,1,True
+RS011,Web of Science,2020,1,1,0,0,True
+RS012,Scopus,2022,1,1,1,0,True
+RS013,Web of Science,2025,1,1,0,1,True
+RS014,Web of Science,2024,1,0,0,1,True
+RS015,Scopus,2026,0,0,0,1,True
+RS016,PubMed,2020,0,0,1,1,True
+RS017,Scopus,2018,0,1,1,1,True
+RS018,Scopus,2019,0,1,1,1,True
+RS019,Web of Science,2022,0,0,0,0,True
+RS020,Scopus,2026,1,0,1,1,True
+RS021,Web of Science,2025,0,1,1,0,True
+RS022,PubMed,2020,0,1,0,1,True
+RS023,PubMed,2023,1,0,1,1,True
+RS024,PubMed,2020,1,0,0,0,True
+RS025,PubMed,2021,1,0,1,1,True
+RS026,Scopus,2026,0,0,0,1,True
+RS027,Scopus,2025,1,1,0,0,True
+RS028,Scopus,2019,1,1,1,0,True
+RS029,Web of Science,2020,0,1,0,0,True
+RS030,Web of Science,2020,1,0,0,1,True
+RS031,Web of Science,2021,1,1,0,1,True
+RS032,PubMed,2026,1,0,1,0,True
+RS033,Web of Science,2020,0,0,1,0,True
+RS034,PubMed,2019,0,1,0,1,True
+RS035,Web of Science,2018,1,1,1,1,True
+RS036,PubMed,2024,1,1,0,0,True
+RS037,PubMed,2025,1,1,1,0,True
+RS038,Scopus,2020,1,1,1,1,True
+RS039,PubMed,2023,0,1,0,1,True
+RS040,PubMed,2022,1,0,0,0,True
+RS041,PubMed,2022,1,1,0,0,True
+RS042,Scopus,2023,0,0,1,1,True
+RS043,Scopus,2022,1,0,0,1,True
+RS044,Web of Science,2025,0,0,1,0,True
+RS045,PubMed,2022,1,1,1,0,True
+RS046,PubMed,2024,0,1,1,1,True
+RS047,Scopus,2018,1,0,0,1,True
+RS048,Web of Science,2022,0,1,1,1,True
+RS049,Web of Science,2019,0,0,1,1,True
+RS050,Scopus,2026,1,0,0,1,True
+RS051,Web of Science,2018,0,0,0,1,True
+RS052,Scopus,2026,1,0,0,1,True
+RS053,Web of Science,2023,0,1,1,1,True
+RS054,Web of Science,2026,1,1,1,0,True
+RS055,Scopus,2023,0,1,1,0,True
+RS056,Web of Science,2025,1,0,0,1,True
+RS057,PubMed,2026,1,0,0,0,True
+RS058,Web of Science,2019,0,0,1,1,True
+RS059,Scopus,2020,1,0,1,1,True
+RS060,Web of Science,2018,0,0,1,1,True
+RS061,Web of Science,2024,1,0,1,1,True
+RS062,Web of Science,2023,1,1,0,0,True
+RS063,Scopus,2026,1,0,1,1,True
+RS064,Web of Science,2021,1,1,1,1,True
+RS065,Web of Science,2022,1,0,1,1,True
+RS066,Scopus,2020,1,0,1,0,True
+RS067,Scopus,2025,1,1,0,0,True
+RS068,Web of Science,2022,1,0,0,0,True
+RS069,PubMed,2018,0,0,0,0,True
+RS070,Scopus,2023,1,0,0,0,True
+RS071,Web of Science,2020,1,1,1,0,True
+RS072,Scopus,2023,1,0,0,0,True
+RS073,Web of Science,2018,0,1,0,0,True
+RS074,Scopus,2025,0,1,0,0,True
+RS075,Scopus,2019,1,1,1,1,True
+RS076,PubMed,2026,1,1,0,0,True
+RS077,Scopus,2020,1,1,0,0,True
+RS078,Web of Science,2023,1,0,0,1,True
+RS079,Scopus,2026,1,0,1,0,True
+RS080,PubMed,2020,1,1,0,0,True
+RS081,Scopus,2024,0,1,1,1,True
+RS082,Scopus,2018,1,1,0,0,True
+RS083,Web of Science,2019,1,1,0,1,True
+RS084,Web of Science,2026,1,0,1,1,True
+RS085,Web of Science,2021,0,0,1,0,True
+RS086,Scopus,2023,1,1,0,0,True
+RS087,Web of Science,2019,1,1,0,0,True
+RS088,PubMed,2026,0,0,0,1,True
+RS089,Web of Science,2025,0,0,1,0,True
+RS090,Web of Science,2025,0,1,0,1,True
+RS091,Scopus,2018,1,1,0,1,True
+RS092,Scopus,2018,0,0,0,1,True
+RS093,Scopus,2019,0,0,1,0,True
+RS094,Scopus,2024,0,0,1,1,True
+RS095,Scopus,2025,1,1,0,0,True
+RS096,Web of Science,2023,0,0,1,0,True
+RS097,Web of Science,2021,0,0,1,1,True
+RS098,Web of Science,2026,1,1,0,0,True
+RS099,Scopus,2023,0,1,0,0,True
+RS100,PubMed,2024,0,0,0,0,True
+RS101,PubMed,2018,1,0,0,0,True
+RS102,Scopus,2025,0,0,0,0,True
+RS103,Web of Science,2022,0,1,1,0,True
+RS104,Scopus,2020,0,1,1,1,True
+RS105,PubMed,2026,0,1,1,0,True
+RS106,Scopus,2024,1,1,1,0,True
+RS107,Scopus,2024,0,1,0,0,True
+RS108,Scopus,2020,1,0,1,1,True
+RS109,Web of Science,2026,0,1,0,1,True
+RS110,PubMed,2023,0,1,1,0,True
+RS111,Web of Science,2021,0,1,1,0,True
+RS112,PubMed,2021,0,1,0,1,True
+RS113,Scopus,2018,0,0,0,1,True
+RS114,PubMed,2021,1,0,1,1,True
+RS115,Scopus,2025,1,1,1,1,True
+RS116,Web of Science,2025,1,0,1,1,True
+RS117,PubMed,2023,1,1,0,0,True
+RS118,Web of Science,2020,0,1,1,1,True
+RS119,PubMed,2021,1,0,1,0,True
+RS120,Scopus,2026,1,1,1,1,True
+RS121,Scopus,2020,1,0,0,1,True
+RS122,PubMed,2026,0,0,0,0,True
+RS123,PubMed,2024,0,0,0,0,True
+RS124,PubMed,2021,1,1,0,1,True
+RS125,Web of Science,2025,0,0,1,0,True
+RS126,PubMed,2026,1,1,0,1,True
+RS127,PubMed,2019,0,0,0,0,True
+RS128,Web of Science,2026,1,1,1,1,True
+RS129,PubMed,2023,1,1,0,0,True
+RS130,Scopus,2019,0,0,1,1,True
+RS131,Scopus,2026,1,0,0,0,True
+RS132,PubMed,2025,1,1,0,0,True
+RS133,PubMed,2021,1,1,0,0,True
+RS134,Web of Science,2022,0,0,1,0,True
+RS135,PubMed,2020,1,0,1,0,True
+RS136,Web of Science,2021,1,1,1,0,True
+RS137,Web of Science,2019,1,0,0,1,True
+RS138,PubMed,2019,1,1,1,0,True
+RS139,Web of Science,2022,1,1,0,1,True
+RS140,Web of Science,2024,1,0,1,0,True
+RS141,Web of Science,2022,0,0,0,1,True
+RS142,PubMed,2024,0,1,1,1,True
+RS143,PubMed,2019,0,1,1,1,True
+RS144,Scopus,2019,0,0,0,1,True
+RS145,Scopus,2026,1,0,0,0,True
+RS146,Scopus,2026,0,1,1,0,True
+RS147,Scopus,2024,1,0,0,0,True
+RS148,Web of Science,2024,0,0,1,1,True
+RS149,Scopus,2025,0,0,0,1,True
+RS150,Scopus,2024,1,1,0,1,True

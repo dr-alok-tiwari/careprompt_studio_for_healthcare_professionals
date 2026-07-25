@@ -1,0 +1,101 @@
+touchpoint_id,stage,channel,pain_score,importance_score,owner,fictional_data
+JT001,Follow-up,Hospital,8,10,Patient support,True
+JT002,Awareness,Hospital,9,4,HCP,True
+JT003,Follow-up,Phone,9,3,Payer,True
+JT004,Follow-up,Pharmacy,2,6,HCP,True
+JT005,Access,Hospital,6,6,Patient support,True
+JT006,Access,Pharmacy,9,1,Hospital,True
+JT007,Diagnosis,Pharmacy,4,10,HCP,True
+JT008,Awareness,Hospital,7,2,Payer,True
+JT009,Diagnosis,Hospital,1,9,Patient support,True
+JT010,Follow-up,Pharmacy,8,1,Patient support,True
+JT011,Access,Hospital,9,2,Hospital,True
+JT012,Access,Phone,2,4,HCP,True
+JT013,Treatment,Phone,4,9,Payer,True
+JT014,Awareness,App,1,8,Patient support,True
+JT015,Awareness,Phone,2,1,HCP,True
+JT016,Diagnosis,Phone,10,4,Patient support,True
+JT017,Treatment,Pharmacy,8,7,Payer,True
+JT018,Diagnosis,Phone,7,2,Hospital,True
+JT019,Follow-up,Phone,10,1,Hospital,True
+JT020,Diagnosis,Phone,5,5,Hospital,True
+JT021,Diagnosis,Pharmacy,7,7,Hospital,True
+JT022,Treatment,App,9,4,HCP,True
+JT023,Treatment,Hospital,3,5,Patient support,True
+JT024,Awareness,App,2,1,Hospital,True
+JT025,Follow-up,Pharmacy,9,9,Hospital,True
+JT026,Diagnosis,App,6,4,Payer,True
+JT027,Follow-up,App,3,3,HCP,True
+JT028,Follow-up,Hospital,4,2,HCP,True
+JT029,Follow-up,Phone,9,8,Hospital,True
+JT030,Diagnosis,Phone,5,2,HCP,True
+JT031,Follow-up,Pharmacy,6,6,HCP,True
+JT032,Access,Phone,5,10,Hospital,True
+JT033,Access,Hospital,8,8,Patient support,True
+JT034,Follow-up,Hospital,10,3,Patient support,True
+JT035,Diagnosis,Pharmacy,3,1,Patient support,True
+JT036,Access,App,7,5,Patient support,True
+JT037,Access,Hospital,8,8,Payer,True
+JT038,Diagnosis,Hospital,8,9,Hospital,True
+JT039,Access,Phone,5,3,HCP,True
+JT040,Diagnosis,Phone,2,1,Hospital,True
+JT041,Follow-up,Pharmacy,10,4,Hospital,True
+JT042,Follow-up,Hospital,9,9,Payer,True
+JT043,Access,Hospital,7,4,Patient support,True
+JT044,Access,Pharmacy,9,9,Hospital,True
+JT045,Treatment,Hospital,9,1,HCP,True
+JT046,Follow-up,App,9,3,Payer,True
+JT047,Access,App,10,10,HCP,True
+JT048,Treatment,Hospital,1,4,Payer,True
+JT049,Access,Phone,5,6,HCP,True
+JT050,Awareness,App,9,6,Payer,True
+JT051,Treatment,Pharmacy,1,1,Patient support,True
+JT052,Awareness,Hospital,5,10,HCP,True
+JT053,Treatment,Pharmacy,6,10,Hospital,True
+JT054,Follow-up,Hospital,7,4,Payer,True
+JT055,Diagnosis,Hospital,8,8,Hospital,True
+JT056,Follow-up,App,8,3,HCP,True
+JT057,Awareness,Hospital,4,3,HCP,True
+JT058,Access,Hospital,10,2,HCP,True
+JT059,Treatment,Hospital,2,8,Payer,True
+JT060,Treatment,App,10,3,Payer,True
+JT061,Awareness,App,1,3,HCP,True
+JT062,Access,Phone,10,3,Hospital,True
+JT063,Access,Hospital,3,9,Payer,True
+JT064,Follow-up,Phone,5,2,HCP,True
+JT065,Treatment,Pharmacy,8,3,HCP,True
+JT066,Treatment,App,10,3,Patient support,True
+JT067,Access,Hospital,8,10,Hospital,True
+JT068,Access,Pharmacy,7,3,Hospital,True
+JT069,Awareness,App,9,9,Payer,True
+JT070,Access,Phone,3,8,Hospital,True
+JT071,Follow-up,Phone,2,8,HCP,True
+JT072,Follow-up,Phone,7,9,Payer,True
+JT073,Diagnosis,Phone,9,7,HCP,True
+JT074,Treatment,Pharmacy,6,10,Hospital,True
+JT075,Treatment,App,5,8,HCP,True
+JT076,Awareness,Hospital,10,9,Payer,True
+JT077,Diagnosis,App,1,1,Hospital,True
+JT078,Follow-up,Phone,7,4,Patient support,True
+JT079,Treatment,Hospital,2,3,Payer,True
+JT080,Follow-up,Hospital,5,9,Payer,True
+JT081,Follow-up,Hospital,10,5,Payer,True
+JT082,Access,Pharmacy,9,9,Payer,True
+JT083,Access,Hospital,9,9,Payer,True
+JT084,Diagnosis,Hospital,10,6,Payer,True
+JT085,Access,Phone,4,8,HCP,True
+JT086,Awareness,App,9,7,Patient support,True
+JT087,Follow-up,Phone,3,7,Hospital,True
+JT088,Awareness,App,8,10,Payer,True
+JT089,Awareness,Phone,5,4,Patient support,True
+JT090,Awareness,Phone,7,7,Patient support,True
+JT091,Follow-up,Phone,3,8,Payer,True
+JT092,Awareness,App,9,5,HCP,True
+JT093,Awareness,App,10,3,Hospital,True
+JT094,Diagnosis,App,1,3,Hospital,True
+JT095,Diagnosis,Pharmacy,6,7,Payer,True
+JT096,Follow-up,App,9,1,Hospital,True
+JT097,Awareness,Hospital,9,10,Patient support,True
+JT098,Diagnosis,Hospital,4,10,HCP,True
+JT099,Treatment,Pharmacy,10,1,Patient support,True
+JT100,Access,Pharmacy,9,2,Hospital,True

@@ -1,0 +1,38 @@
+[
+  {
+    "title": "What generative AI does",
+    "duration": "2 min",
+    "summary": "Generative AI predicts and constructs outputs from patterns in data; it does not independently know whether a clinical claim is true.",
+    "takeaway": "Treat fluency as presentation quality, not proof."
+  },
+  {
+    "title": "Hallucination and citation fabrication",
+    "duration": "3 min",
+    "summary": "Models can invent plausible facts, guidelines and references.",
+    "takeaway": "Open and verify every critical source."
+  },
+  {
+    "title": "Automation bias",
+    "duration": "2 min",
+    "summary": "People may over-trust computer-generated recommendations, especially when they are well formatted.",
+    "takeaway": "Require an explicit human reviewer and a challenge step."
+  },
+  {
+    "title": "Privacy and data leakage",
+    "duration": "3 min",
+    "summary": "Sensitive text may be retained or processed outside approved systems depending on the provider and organisational configuration.",
+    "takeaway": "Use de-identified fictional data unless the system is explicitly approved."
+  },
+  {
+    "title": "Prompt injection",
+    "duration": "2 min",
+    "summary": "Uploaded or retrieved content may contain instructions that manipulate an AI workflow.",
+    "takeaway": "Treat external content as data, not trusted instructions."
+  },
+  {
+    "title": "Bias and equity",
+    "duration": "3 min",
+    "summary": "Outputs may underrepresent populations or reproduce stereotypes and historical inequities.",
+    "takeaway": "Check subgroup applicability, missing populations and language."
+  }
+]

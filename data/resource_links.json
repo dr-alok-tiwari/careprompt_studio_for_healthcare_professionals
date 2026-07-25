@@ -1,0 +1,32 @@
+[
+  {
+    "title": "PubMed",
+    "description": "Free biomedical literature database and search interface.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "last_reviewed": "2026-07-25"
+  },
+  {
+    "title": "WHO Guidelines",
+    "description": "Official global health guideline collection.",
+    "url": "https://www.who.int/publications/who-guidelines",
+    "last_reviewed": "2026-07-25"
+  },
+  {
+    "title": "NICE Guidance",
+    "description": "Evidence-based UK health and care recommendations; adapt to local context.",
+    "url": "https://www.nice.org.uk/guidance",
+    "last_reviewed": "2026-07-25"
+  },
+  {
+    "title": "ClinicalTrials.gov",
+    "description": "Public clinical trial registry and results database.",
+    "url": "https://clinicaltrials.gov/",
+    "last_reviewed": "2026-07-25"
+  },
+  {
+    "title": "Zotero",
+    "description": "Free, open-source reference manager.",
+    "url": "https://www.zotero.org/",
+    "last_reviewed": "2026-07-25"
+  }
+]

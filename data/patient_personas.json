@@ -1,0 +1,17 @@
+[
+  {
+    "persona": "Older adult with low health literacy",
+    "needs": [
+      "plain language",
+      "large text",
+      "caregiver involvement"
+    ]
+  },
+  {
+    "persona": "Busy working adult",
+    "needs": [
+      "concise plan",
+      "mobile-friendly follow-up"
+    ]
+  }
+]
