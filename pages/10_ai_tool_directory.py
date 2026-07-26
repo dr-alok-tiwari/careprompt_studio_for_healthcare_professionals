@@ -7,7 +7,7 @@ from services.tool_registry import filter_tools, load_tools
 
 page_header(
     "AI Tool Directory",
-    "Compare free, freemium, paid and open-source tools. Pricing, features and availability can change—verify before adoption.",
+    "Compare free, freemium, paid and open-source tools with indicative INR costs and direct official links.",
 )
 
 df = load_tools()
@@ -16,7 +16,7 @@ tab1, tab2 = st.tabs(["🔎 Browse tools", "🧭 Get a recommendation"])
 with tab1:
     safe_callout(
         "Search freely or use a quick nudge",
-        "The quick-search selector fills the editable search field below. You can replace it with any tool, task or feature.",
+        "Every category and access combination has at least one option. INR figures are indicative, exclude taxes and may be converted from international prices—verify the official page before adoption.",
     )
 
     quick_options = [
@@ -56,10 +56,12 @@ with tab1:
         "tool",
         "category",
         "access",
+        "cost_inr",
         "best_for",
         "patient_data",
         "citation_support",
         "ease",
+        "official_url",
         "last_verified",
     ]
     st.dataframe(
@@ -71,10 +73,15 @@ with tab1:
             "tool": "Tool",
             "category": "Category",
             "access": "Access",
+            "cost_inr": "Indicative cost (INR)",
             "best_for": "Best for",
             "patient_data": "Patient-data guidance",
             "citation_support": "Citation support",
             "ease": "Ease",
+            "official_url": st.column_config.LinkColumn(
+                "Official tool URL",
+                display_text="Open tool ↗",
+            ),
             "last_verified": "Last verified",
         },
     )
@@ -137,6 +144,7 @@ with tab2:
             for rank, row in enumerate(rows, start=1):
                 with st.expander(f"#{rank} · {row['tool']} · {row['access']}", expanded=rank <= 2):
                     st.markdown(f"**Best for:** {row['best_for']}")
+                    st.markdown(f"**Indicative INR cost:** {row['cost_inr']}")
                     st.caption("Limitation: " + row["limitations"])
                     st.write(
                         "Patient data: **"
