@@ -7,12 +7,14 @@ def load_tools() -> pd.DataFrame:
     return pd.read_csv(DATA).fillna("")
 
 
-def filter_tools(query: str = "", category: str = "All", pricing: str = "All") -> pd.DataFrame:
+def filter_tools(query: str = "", category: str = "All", access: str = "All") -> pd.DataFrame:
     df = load_tools()
-    if category != "All": df = df[df["category"] == category]
-    if pricing != "All": df = df[df["access"] == pricing]
+    if category != "All":
+        df = df[df["category"] == category]
+    if access != "All":
+        df = df[df["access"] == access]
     if query:
         q = query.lower()
         mask = df.astype(str).apply(lambda col: col.str.lower().str.contains(q, regex=False)).any(axis=1)
         df = df[mask]
-    return df
+    return df.reset_index(drop=True)

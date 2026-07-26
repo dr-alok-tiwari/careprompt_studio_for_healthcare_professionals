@@ -1,6 +1,6 @@
 APP_NAME = "CarePrompt Studio"
 APP_TAGLINE = "Guided, patient-centred AI workflows for healthcare professionals"
-APP_VERSION = "2.0.0"
+APP_VERSION = "2.1.0"
 DEVELOPER_NAME = "Dr. Alok Tiwari"
 DEVELOPER_ROLE = "Assistant Professor – Big Data Analytics"
 DEVELOPER_ORG = "Goa Institute of Management"

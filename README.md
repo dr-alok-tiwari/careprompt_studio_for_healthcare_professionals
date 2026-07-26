@@ -11,6 +11,8 @@
 - Domain-specific prompt nudges for patient communication, clinical reasoning, research, medical affairs, pharmacovigilance and professional projection
 - Editable sample patient journeys
 - Guided onboarding, case practice, tool search, privacy checks and facilitator goals
+- Complete category-by-access tool coverage with official links and indicative INR costs
+- A filterable 500-MCQ Learning Lab with answer-reveal buttons and explanations
 - Stronger review reminders and duplicate-safe workspace saving
 - Automated GitHub checks for compilation, tests and Streamlit startup
 
@@ -18,10 +20,10 @@
 
 - 17 pages using `st.Page` and `st.navigation`
 - 180 prompt templates
-- 50+ AI tools with access type, privacy notes and official URLs
+- 77 AI and evidence tools with access type, privacy notes, INR costs and official URLs
 - Patient-centricity, clinical reasoning, research, medical affairs, pharmacovigilance and professional-projection studios
 - Local privacy pattern checker
-- Fictional cases, quizzes and 10 synthetic datasets
+- Fictional cases, 500 explained MCQs and 10 synthetic datasets
 - Session workspace with Markdown, JSON, DOCX and PDF export
 - Facilitator agendas for 30 minutes to a full day
 - Works without a paid API
